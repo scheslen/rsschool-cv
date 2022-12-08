@@ -5,7 +5,7 @@ Phone: +375 29 551 89 07
 e-mail: rsantgalin@mail.ru
 RS Scool Discord nickname: Halina A(@scheslen) 
 ================================================
-## ---
+## -
 Versatile experience in designing, developing, testing, documenting, maintaining software products.
 Responsibility, sociability,  learnability.
 ================================================
