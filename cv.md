@@ -4,6 +4,7 @@
 * Phone: +375 29 551 89 07
 * e-mail: rsantgalin@mail.ru
 * Discord nickname: Halina A(@scheslen) 
+
 ================================================
 ## -
 Versatile experience in designing, developing, testing, documenting, maintaining software products.
