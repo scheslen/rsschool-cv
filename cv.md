@@ -5,11 +5,11 @@
 * e-mail: rsantgalin@mail.ru
 * Discord: Halina A(@scheslen) 
 
-===
+---
 
 Versatile experience in designing, developing, testing, documenting, maintaining software products.
 Responsibility, sociability,  learnability.
-================================================
+
 ## Skills
 * HTML / CSS
 * JS
@@ -30,7 +30,7 @@ ODO "Programming for YOU".
 Leading Software Engineer.
 Central Research Institute of Control Technologies.
 
-================================================
+
 ## English
 
 A2
@@ -39,7 +39,7 @@ A2
 codewars / js z8 dhtml / Z1 Hare
 
 ` `
-================================================
+-----
 ## Projects
 
 CV
