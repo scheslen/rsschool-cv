@@ -6,7 +6,7 @@
 * Discord nickname: Halina A(@scheslen) 
 
 ================================================
-## -
+
 Versatile experience in designing, developing, testing, documenting, maintaining software products.
 Responsibility, sociability,  learnability.
 ================================================
@@ -32,6 +32,7 @@ Central Research Institute of Control Technologies.
 
 ================================================
 ## English
+
 A2
 ================================================
 ## Code
