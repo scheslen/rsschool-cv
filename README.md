@@ -1,2 +1,2 @@
-https://scheslen.github.io/rsschool-cv/cv
+[cv](https://scheslen.github.io/rsschool-cv/cv)
 
