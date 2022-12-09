@@ -2,7 +2,7 @@
 
 ## Contacts
 * Phone: +375 29 551 89 07
-* e-mail: rsantgalin@mail.ru
+* e-mail: antgalin@mail.ru
 * Discord: Halina A(@scheslen) 
 
 ---
