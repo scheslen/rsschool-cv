@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CV</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="autor" content="#">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+      <header>
+       <p id="id-page-top"></p>
+       <div class="container">
+        <nav>
+            <ul>
+                <li><a href="#id-education">Education</a></li>
+                <li><a href="#id-work">Work Experience</a></li>
+                <li><a href="#id-projects">Projects</a></li>
+            </ul>
+        </nav>
+       </div>
+    </header>
+
+    <main>
+        <div class="container">
+            <h1>Halina Antonik</h1>
+            <div class="photo">
+                <img src="assets/img/av1.jpg" alt="photo" class="roundimg">
+            </div>
+
+            <h2>Contacts</h2>
+            <ul>
+                <li>Phone: +375 29 551 89 07</li>
+                <li>e-mail: antgalin@mail.ru</li>
+                <li>Discord: Halina A(@scheslen)</li>
+            </ul>
+
+            <h2>About me</h2>
+            <p>Versatile experience in designing, developing, testing, documenting, maintaining software products. Responsibility, sociability,  learnability.</p>
+
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML / CSS</li>
+                <li>JavaScript</li>
+                <li>Figma, Photoshop, 3DSMax</li>
+                <li>Git / GitHub</li>
+            </ul>
+
+            <p id="id-education"></p>
+            <h2>Education</h2>
+            <ul>
+                <li>BSU, Institute of Business, Web design.</li>
+                <li>BSU, Faculty of Applied Mathematics.</li>
+            </ul>
+
+            <p id="id-work"></p>
+            <h2>Work Experience</h2>
+            <ul>
+                <li>2005 - to present: Leading Software Engineer. ODO "Programming for You".</li>
+                <li>1989-2005: Leading Software Engineer. Central Research Institute of Control Technologies.</li>
+            </ul>
+
+            <h2>English</h2>
+            <p>Level A2</p>
+
+            <h2>Code example</h2>
+            <pre class="mcode">
+                <code >
+    function remPlaylist()
+	{
+    let sSong=this.innerHTML;
+	let iSong=aPlay.indexOf(sSong);
+	aPlay.splice(iSong,1);
+
+	iSong=aSongs.indexOf(sSong);
+        pSongs.lastChild.childNodes[iSong].style.color='#fff';
+
+	this.remove();
+	}
+                </code>
+            </pre>
+
+            <p id="id-projects"></p>
+            <h2>Projects</h2>
+            <p><a href="https://scheslen.github.io/rsschool-cv/cv">CV</a></p>
+            <hr class="line">
+            <a href="#id-page-top" title="Home">&uArr;</a>
+            </div>
+        </main>
+
+        <footer>
+            <div class="container">
+                <div class="container-inner">
+                    <a href="https://rs.school/js">
+                        <div class="imgrsscool"><img src="https://rs.school/images/rs_school_js.svg" alt="rs-scool"></div>
+                    </a>
+                    <span>&#169;&nbsp;Halina Antonik, 2022 Minsk</span>
+                    <a href="https://github.com/scheslen">
+                        <div class="imggithub">
+                            <img src="assets/img/github-icon.svg" alt="github">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </footer>
+
+    </body>
+</html>
