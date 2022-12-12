@@ -1,2 +1,3 @@
-# rsschool-cv
-CV
+[cv](https://scheslen.github.io/rsschool-cv/cv)
+
+[cv html](https://scheslen.github.io/rsschool-cv/)
