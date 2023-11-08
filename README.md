@@ -1,2 +1,2 @@
 # rsschool-cv
-CV Markdown HTML
+[CV] (https://scheslen.github.io/rsschool-cv/cv)
