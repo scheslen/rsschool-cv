@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(#48a77c,#d6f8f2);
+    color:  #fff;
+    font-family: Arial;
+    font-size : 20px;
+        text-align: center;
+ }
+ .container{
+    background-color: #d6f8f2;
+    color: #060;
+    max-width: 800px;
+    height: 90vh;
+    padding: 15px;
+    margin: 20px auto 50px;
+    box-shadow: 5px 5px 5px #407e5e;
+ }
+ .container-inner{
+     display:flex;
+     justify-content: space-between;
+     align-items: center;
+ }
